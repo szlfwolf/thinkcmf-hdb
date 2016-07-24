@@ -438,7 +438,7 @@
 	display: block;
 }
 .ke-toolbar-icon-url {
-	background-image: url(default.png);
+	background-image: url(../images/default.png);
 }
 .ke-toolbar .ke-outline {
 	border: 1px solid #F0F0EE;
@@ -785,7 +785,7 @@
 	display:none !important;
 }
 .ke-button-common {
-	background: url(background.png) no-repeat scroll 0 -25px transparent;
+	background: url(../images/background.png) no-repeat scroll 0 -25px transparent;
 	cursor: pointer;
 	height: 23px;
 	line-height: 23px;
